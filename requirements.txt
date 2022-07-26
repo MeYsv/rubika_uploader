@@ -1,0 +1,6 @@
+pycryptodome
+requests
+pillow
+urllib3
+tqdm
+tinytag
